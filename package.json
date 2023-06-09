@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "react-router-dom": "^6.12.1"
+  },
+  "dependencies": {
+    "next.js": "^1.0.3"
   }
 }
